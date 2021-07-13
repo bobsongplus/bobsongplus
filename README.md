@@ -4,8 +4,18 @@
 - 🔭 I’m currently working on Kubernetes & Docker & Containerd
 - 🌱 I’m currently learning Go & English & Containerd
 
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tinysong&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" />
+  <!--  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tinysong&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" />
+  -->
+ <div align="center">
 
+ <a href="https://github.com/tinysong/github-stats">
+
+ ![](https://raw.githubusercontent.com/tinysong/github-stats/master/generated/overview.svg)
+ ![](https://github.com/tinysong/github-stats/blob/master/generated/languages.svg)
+
+ </a>
+
+ </div>
  <!--
 **TinySong/TinySong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
